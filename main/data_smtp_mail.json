@@ -1,0 +1,7 @@
+{
+    "Mailbox": "Your_MailBox",
+    "Password": "Your_Email_Password",
+    "SMTP_SERVER": "IP_SMTP_Server", 
+    "SMTP_PORT": 467, 
+    "Timer": 0
+}
